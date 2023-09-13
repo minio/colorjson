@@ -26,7 +26,7 @@ import (
 	"unicode/utf8"
 
 	"github.com/mattn/go-isatty"
-	"github.com/minio/pkg/console"
+	"github.com/minio/pkg/v2/console"
 )
 
 // Marshal returns the JSON encoding of v.
