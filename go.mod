@@ -2,12 +2,10 @@ module github.com/minio/colorjson
 
 go 1.21
 
-toolchain go1.21.9
-
 require (
 	github.com/fatih/color v1.16.0
 	github.com/mattn/go-isatty v0.0.20
-	github.com/minio/pkg/v3 v3.0.0
+	github.com/minio/pkg/v3 v3.0.1
 )
 
 require (
